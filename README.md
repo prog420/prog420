@@ -9,9 +9,8 @@
 <summary>
  <b>Skills Summary</b>
 </summary>
-
----
-
+ 
+#
 ### 📑 Skills Summary
 
 #### <u>Test Automation</u>
@@ -26,7 +25,7 @@
 * Testing documentation creation and maintenance.
 * Coordinating with multiple departments for resolving issues.
 
----
+#
 
 </details>
 
@@ -35,8 +34,7 @@
  <b>Tech Stack</b>
 </summary>
 
----
-
+#
 ### 💻 Tech Stack
 
 #### <u>Programming Languages</u>
@@ -55,7 +53,7 @@
 * HTML, CSS
 * Github Actions
 
----
+#
 
 </details>
 
@@ -63,13 +61,12 @@
 <summary>
  <span style="font-family:monospace;font-size:15px"><b>Coding Stats</b></span>
 </summary>
-
-
+ 
+#
 [![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=prog420&show_icons=true&theme=dracula&langs_count=5&layout=default)]()
 
----
-
 [LeetCode Profile](https://leetcode.com/prog420/)
+#
 
 </details>
 
@@ -77,9 +74,10 @@
 <summary>
  <span style="font-family:monospace;font-size:15px"><b>Contact Me</b></span>
 </summary>
-
-[Telegram](https://t.me/dmitry_b_v) | [LinkedIn](https://linkedin.com/in/dmitry-bv) | [E-Mail](](mailto:dima.babadeev@mail.ru))
-
+ 
+#
+[Telegram](https://t.me/dmitry_b_v) | [LinkedIn](https://linkedin.com/in/dmitry-bv) | [E-Mail](mailto:dima.babadeev@mail.ru)
+#
 </details>
 
 </font>
