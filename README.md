@@ -2,20 +2,7 @@
 
 ## Hi there 👋
 
-<span style="font-size:15px">I'm a Full Stack QA engineer working at [TBC Bank](https://www.tbcbankgroup.com/about-us/at-a-glance/international-expansion/) / [Payme](https://payme.uz/home/main).</span>
-
-
-<details>
-<summary>
- <b>Work History</b>
-</summary>
-
-* QA Engineer - [TBC Bank / Payme](https://www.tbcbankgroup.com/about-us/at-a-glance/international-expansion/) (Dec 2023 - Present)
-* Game QA Engineer - [Perelesoq](https://perelesoq.com/) (Oct 2022 - Dec 2023)
-* QA Engineer - [Information Project Management](https://sd-praktika.ru/) (Jul 2022 - Oct 2022)
-* Research Assistant (Cheminformatics, ML & DL) - [Kazan State University](https://kpfu.ru/eng/strau/laboratories/chemoinformatics-and-molecular-modeling-laboratory/educational-programs) (Nov 2021 - Jun 2022)
-
-</details>
+<span style="font-size:15px">I'm a QA engineer working at [TBC Bank](https://www.tbcbankgroup.com/about-us/at-a-glance/international-expansion/) / [Payme](https://payme.uz/home/main).</span>
 
 <details>
 <summary>
@@ -63,21 +50,10 @@
 
 <details>
 <summary>
- <span style="font-family:monospace;font-size:15px"><b>Coding Stats</b></span>
-</summary>
-
-[![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=prog420&show_icons=true&theme=dracula&langs_count=5&layout=default)]()
-
-[LeetCode Profile](https://leetcode.com/prog420/)
-
-</details>
-
-<details>
-<summary>
  <span style="font-family:monospace;font-size:15px"><b>Contact Me</b></span>
 </summary>
 
-[Telegram](https://t.me/dmitry_b_v) | [LinkedIn](https://linkedin.com/in/dmitry-bv) | [E-Mail](mailto:dima.babadeev@mail.ru)
+[Telegram](https://t.me/dmitry_b_v) | [LinkedIn](https://linkedin.com/in/dmitry-bv) | [E-Mail](mailto:dima.babadeev@mail.ru) | [LeetCode Profile](https://leetcode.com/prog420/)
 #
 </details>
 
