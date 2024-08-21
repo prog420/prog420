@@ -38,11 +38,12 @@
 #### <u>Tools & Technologies</u>
 
 * PyTest
+* JUnit
 * Selenium, Appium
 * Git
-* SQL, ORM Tools for Python (SQLAlchemy)
+* SQL
 * Docker
-* HTML, CSS
+* HTML, CSS, JS
 * CI/CD (Gitlab CI/CD, Github Actions)
 * Unity 3D
 
@@ -52,9 +53,25 @@
 <summary>
  <span style="font-family:monospace;font-size:15px"><b>Contact Me</b></span>
 </summary>
-
-[Telegram](https://t.me/dmitry_b_v) | [LinkedIn](https://linkedin.com/in/dmitry-bv) | [E-Mail](mailto:dima.babadeev@mail.ru) | [LeetCode Profile](https://leetcode.com/prog420/)
+<br>
+ 
+[Telegram](https://t.me/dmitry_b_v) | [LinkedIn](https://linkedin.com/in/dmitry-bv) | [E-Mail](mailto:dima.babadeev@mail.ru)
 #
 </details>
+
+ <table align="center">
+  <tr>
+    <td>
+     <a href="https://leetcard.jacoblin.cool/prog420?theme=dark&font=Noto%20Sans%20Thaana&ext=heatmap">
+      <img height="200" align="center" src="https://leetcard.jacoblin.cool/prog420?theme=dark&font=Noto%20Sans%20Thaana&ext=heatmap&border=3" />
+    </a>
+    </td>
+    <td>
+     <a href="https://github.com/prog420">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prog420&border_color=808080&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5&hide=shaderlab,hlsl" />
+    </a>
+    </td>
+  </tr>
+</table>
 
 </font>
